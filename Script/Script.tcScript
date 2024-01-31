@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="APK_" key="{2812F331-858C-4E97-A8CA-8887AD3764E0}" path="APK_.py" />
+		<child name="email" key="{5F1F38D0-F1A2-4FDA-9C07-6FBBE1D3D664}" path="email.py" />
+		<child name="drag_drop" key="{3B872685-1B4B-42C4-9F61-F3CE96F80D00}" path="drag_drop.py" />
+		<child name="eventTimeOut" key="{D09D4190-278C-4FA9-8E44-E80EDFD4D91E}" path="eventTimeOut.py" />
+		<child name="popup" key="{F431390D-ABBC-469A-B7DC-9B03A59BA91B}" path="popup.py" />
+	</children>
+</Root>

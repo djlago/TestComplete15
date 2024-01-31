@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{FFF27816-6CFE-45F9-8837-938E34751242}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45166.7376736111" objectName="Aliases.browser.pageShop.linkLogIn" objectLeft="1420" objectTop="77" objectRight="1507" objectBottom="129" clickPointX="1448" clickPointY="92" imageFileName="tcvi2926328223365.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45166.7378009259" objectName="Aliases.browser.pageLogin.sectionContent.textboxUsernameoremail" objectLeft="1092" objectTop="462" objectRight="1475" objectBottom="513" clickPointX="1209" clickPointY="485" imageFileName="tcvi2937484223366.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45166.7378125" objectName="Aliases.browser.pageLogin.sectionContent.textboxUsernameoremail" objectLeft="1092" objectTop="462" objectRight="1475" objectBottom="513" clickPointX="1919" clickPointY="-1" imageFileName="tcvi2939015223367.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45166.7378356481" objectName="Aliases.browser.pageLogin.sectionContent.passwordboxPassword" objectLeft="1092" objectTop="529" objectRight="1475" objectBottom="580" clickPointX="1919" clickPointY="-1" imageFileName="tcvi2941000223368.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45166.7378819444" objectName="Aliases.browser.pageLogin.sectionContent.buttonLogIn" objectLeft="1092" objectTop="635" objectRight="1475" objectBottom="686" clickPointX="1128" clickPointY="669" imageFileName="tcvi29452812233610.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Login">
+			<child name="login" key="{FFF27816-6CFE-45F9-8837-938E34751242}" path="login.tcKDTest" />
+		</folder>
+		<folder name="Desktop">
+			<child name="Orders_New_Order" key="{B301409F-16B1-47FB-BD1E-ADF3C52EB24A}" path="Orders_New_Order.tcKDTest" />
+			<child name="Orders_app2" key="{FA2CBAAB-6C28-46DB-B796-DECF25C465AA}" path="Orders_app2.tcKDTest" />
+			<child name="Desktop_app2" key="{74DBC883-E887-404A-A9D1-1AC2B6579A27}" path="Desktop_app2.tcKDTest" />
+		</folder>
+		<folder name="Mobile">
+			<child name="MobileApp" key="{C1936A10-6352-41F8-9064-BD2A0F34A04C}" path="MobileApp.tcKDTest" />
+			<child name="appium_server" key="{486A8B2A-B799-4731-96F6-76D9C5435CBF}" path="appium_server.tcKDTest" />
+			<child name="APK" key="{DB4EFBE7-D77F-4012-AFD6-EAD9CDD28F26}" path="APK.tcKDTest" />
+			<child name="mobile_web" key="{461A29D9-E868-4928-97B5-4C1657C6C2C8}" path="mobile_web.tcKDTest" />
+			<child name="local_app" key="{0DC52DDF-FF5C-45EC-9C25-D3D7E8A4745E}" path="local_app.tcKDTest" />
+			<child name="BB_orders" key="{98118153-740B-4BB2-AE5C-128667C18623}" path="BB_orders.tcKDTest" />
+		</folder>
+		<folder name="SandBox">
+			<child name="drag" key="{10E25D8C-8DE9-4C8B-B80F-1358B8215946}" path="drag.tcKDTest" />
+			<child name="PDF_text" key="{D0EC8A65-34AF-485E-A338-68D13A0F0B9A}" path="PDF_text.tcKDTest" />
+			<child name="Perf" key="{A026A4D4-358F-431D-9C5C-6B70521867AB}" path="Perf.tcKDTest" />
+			<child name="Set_Var_Value" key="{07E35551-DFC6-49CD-9B84-134ECE444116}" path="Set_Var_Value.tcKDTest" />
+			<child name="Blazer" key="{A89ED21F-DB49-443F-AB65-3A4E1AB922AA}" path="Blazer.tcKDTest" />
+			<child name="iframe" key="{E250EABB-313B-4BCC-AC97-C83FE3024920}" path="iframe.tcKDTest" />
+			<child name="CallObject" key="{10BA1B4B-F6E2-496D-9022-96B0555FA397}" path="CallObject.tcKDTest" />
+		</folder>
+		<child name="SmartStore" key="{8CF1674A-065F-46B7-BDF8-99CD5818D69E}" path="SmartStore.tcKDTest" />
+		<child name="close_app" key="{55CC6867-83F2-4C0F-A2F9-2628C969BED7}" path="close_app.tcKDTest" />
+		<child name="ecom_test" key="{A8CF719F-2ADA-4DC0-83FD-35CFF66D29F9}" path="ecom_test.tcKDTest" />
+		<child name="ecom_web" key="{7EBB38A3-F7CE-40EB-82B7-F80898474797}" path="ecom_web.tcKDTest" />
+		<child name="Contact_Us" key="{836CC6CF-27E7-476E-B873-0D641086821C}" path="Contact_Us.tcKDTest" />
+		<child name="Ecom_webstore" key="{5E95F0C7-A458-46EE-95EB-D182721FA473}" path="Ecom_webstore.tcKDTest" />
+		<child name="primereact" key="{08E8C12E-A467-47C4-BAD9-73F15C305954}" path="primereact.tcKDTest" />
+	</children>
+</Root>

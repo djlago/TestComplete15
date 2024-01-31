@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{10E25D8C-8DE9-4C8B-B80F-1358B8215946}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45244.6512847222" objectName="Aliases.browser.pageBallChair.panel2" objectLeft="521" objectTop="197" objectRight="944" objectBottom="297" clickPointX="662" clickPointY="249" imageFileName="tcvi165377437243360.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45244.6513541667" objectName="Aliases.browser.pageBallChair.panel3" objectLeft="521" objectTop="313" objectRight="944" objectBottom="413" clickPointX="734" clickPointY="363" imageFileName="tcvi165383265243362.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45244.651400463" objectName="Aliases.browser.pageBallChair.panel3" objectLeft="521" objectTop="313" objectRight="944" objectBottom="413" clickPointX="755" clickPointY="355" imageFileName="tcvi165387421243364.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45244.6514583333" objectName="Aliases.browser.pageBallChair.panel3" objectLeft="967" objectTop="661" objectRight="1390" objectBottom="761" clickPointX="1189" clickPointY="721" imageFileName="tcvi165391984243366.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45244.6515162037" objectName="Aliases.browser.pageBallChair.panel4" objectLeft="967" objectTop="545" objectRight="1390" objectBottom="645" clickPointX="1169" clickPointY="598" imageFileName="tcvi165397625243368.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

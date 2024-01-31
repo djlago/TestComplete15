@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{8CF1674A-065F-46B7-BDF8-99CD5818D69E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45225.6974652778" objectName="Aliases.browser.pageShop.sectionContent.articleBasketball.linkBasketball.imagePictureForCategoryBasketbal" objectLeft="976" objectTop="439" objectRight="1115" objectBottom="579" clickPointX="1029" clickPointY="531" imageFileName="tcvi620577937201004.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45225.6975115741" objectName="Aliases.browser.pageBallChair.sectionContent.article25.linkShowDetailsForHighSchool.imageShowDetailsForHighSchool" objectLeft="902" objectTop="510" objectRight="1076" objectBottom="684" clickPointX="1000" clickPointY="595" imageFileName="tcvi620581359201008.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
